@@ -1,4 +1,3 @@
-# homework1
 # Найдите сумму цифр трехзначного числа
 print ("Введите трехзначное число:")
 a = int (input())
@@ -51,4 +50,5 @@ while i < m or j < n:
         print ("YES")
 else: 
         print ("NO")
+  
     
